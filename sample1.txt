@@ -3,3 +3,5 @@
 edited at local  repo
 
 edited at remote repo for the second time to create conflict.
+
+edited by a developer.
