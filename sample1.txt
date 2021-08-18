@@ -1,5 +1,4 @@
 this is a simple txt file for demo.
-=======
 edited at local  repo
 =======
 edited at remote repo for the second time to create conflict.
